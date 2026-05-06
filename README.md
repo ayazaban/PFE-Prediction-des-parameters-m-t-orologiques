@@ -1,6 +1,20 @@
 # 🌦️ Calibration de Paramètres Météorologiques par Machine Learning
 
 > Pipeline complet de fusion multi-sources, feature engineering et calibration statistique pour la prédiction de **température** et **précipitation** sur des stations terrain marocaines (2012–2025).
+# PFE-Prediction-des-parameters-m-t-orologiques
+# Prédiction des Paramètres Météorologiques & Agronomiques  
+## À l’aide d’images satellitaires et d’APIs open-source  
+*Projet de Fin d’Études – 2025*  
+*Réalisé avec Google Colab + Python + ML avancé*
+
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![Pandas](https://img.shields.io/badge/pandas-2.2-green)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-orange)
+![XGBoost](https://img.shields.io/badge/XGBoost-optimized-brightgreen)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+---
 
 ---
 
